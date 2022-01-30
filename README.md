@@ -33,7 +33,9 @@ The UI was coded using PySimpleGUI. It involves very simple image display featur
 As the number of people between who the information is to be shared increases it becomes difficult to figure out the best possible and optimal way to set up quantum channels between them. This problem becomes similar to Travelling Salesman Problem which is an optimisation problem. As a prototype of what further could be done with this project we have solved this problem using Variational Quantum Eigensolver. Thus as the number of people and distances increase an optimal way to set up the quantum channels can be determined.
 
 
-## Quick Tutorial
+## Link to Presentation:
+[presentation.pdf](https://github.com/fs1132429/2022_qutech_challenge/files/7966463/presentation.pdf)
+
 
 ## Our Experience at IT iQuHACK 2022
 **Mark Long**:  
